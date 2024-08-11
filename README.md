@@ -9,7 +9,7 @@
 ✏️ CS M.S. @ CPP • CSE Alumni @ UCLA
 📚 SWE • ML • Cybersecurity • Data Science • Frontend
 🎮 Valorant • Minecraft • Jedi: Fallen Order
-🎳 Bowling • Yelping • Cooking • Piano • Frisbee
+🎳 Bowling • Yelping • Anime • Piano • Frisbee
 </pre>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5)](https://www.linkedin.com/in/thvu02/)
